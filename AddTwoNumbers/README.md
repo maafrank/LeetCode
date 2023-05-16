@@ -34,7 +34,6 @@ Output: [8,9,9,9,0,0,0,1] <br>
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         # Create List
-        print(l1)
         list1 = ""
         list2 = ""
         # Get values
@@ -44,20 +43,20 @@ class Solution:
         while l2.next:
             list2 += str(l2.val)
             l2 = l2.next
+
         list1 += str(l1.val)
         list2 += str(l2.val)
         
-        print(list1, list2)
         list1 = list1[::-1]
         list2 = list2[::-1]
-        print(list1, list2)
+
         list3 = int(list1) + int(list2)
-        print(list3)
         list3 = str(list3)
+
         l3 = ListNode(val=int(list3[0]), next=None)
         for i in range(1, len(str(list3))):
             l3 = ListNode(val=int(list3[i]), next=l3)
-        print(l3)
+
         return l3
 ```
 
