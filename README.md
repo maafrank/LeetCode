@@ -15,3 +15,4 @@ Solved Leetcode problems
 [15. 3Sum](/3Sum/)<br>
 [16. 3SumClosest](/3SumClosest/)<br>
 [17. LetterCombinationsOfAPhoneNumber](LetterCombinationsOfAPhoneNumber)<br>
+[21. MergeTwoSortedLists](MergeTwoSortedLists)<br>
