@@ -27,6 +27,7 @@ Solved Leetcode problems
 [83. RemoveDuplicatesFromSortedList](/RemoveDuplicatesFromSortedList/)<br>
 [88. MergeSortedArray](/MergeSortedArray/)<br>
 [290. WordPattern](/WordPattern/)<br>
+[412. FizzBuzz](/FizzBuzz/)<br>
 
 
 
