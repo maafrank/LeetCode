@@ -19,7 +19,7 @@ Output: [1,2] <br>
 Input: nums = [3,3], target = 6 <br>
 Output: [0,1] <br>
 
-### Solution
+## Solution
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

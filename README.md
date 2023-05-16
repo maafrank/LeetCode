@@ -2,4 +2,4 @@
 Solved Leetcode problems
 
 
-[TwoSum](/TwoSum/)
+[1. TwoSum](/TwoSum/)
