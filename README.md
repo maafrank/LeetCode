@@ -18,3 +18,4 @@ Solved Leetcode problems
 [21. MergeTwoSortedLists](/MergeTwoSortedLists/)<br>
 [23. MergeKSortedLists](/MergeKSortedLists/)<br>
 [26. RemoveDuplicatesFromSortedArray](/RemoveDuplicatesFromSortedArray/)<br>
+[38. CountAndSay](/CountAndSay/)<br>
