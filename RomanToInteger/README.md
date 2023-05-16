@@ -3,7 +3,7 @@
 ## Problem Description
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.<br>
 
-Symbol=       Value
+Symbol=       Value<br>
 I=             1<br>
 V=             5<br>
 X=             10<br>
@@ -18,6 +18,7 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 - I can be placed before V (5) and X (10) to make 4 and 9. <br>
 - X can be placed before L (50) and C (100) to make 40 and 90. <br>
 - C can be placed before D (500) and M (1000) to make 400 and 900.<br>
+
 Given a roman numeral, convert it to an integer.<br>
 
 ## Examples
