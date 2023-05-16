@@ -26,6 +26,7 @@ Solved Leetcode problems
 [78. Subsets](/Subsets/)<br>
 [83. RemoveDuplicatesFromSortedList](/RemoveDuplicatesFromSortedList/)<br>
 [88. MergeSortedArray](/MergeSortedArray/)<br>
+[290. WordPattern](/WordPattern/)<br>
 
 
 
