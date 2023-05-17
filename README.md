@@ -30,6 +30,7 @@ Solved Leetcode problems
 [412. FizzBuzz](/FizzBuzz/)<br>
 [937. ReorderDataInLogFiles](/ReorderDataInLogFiles/)<br>
 [1268. SearchSuggestionsSystem](/SearchSuggestionsSystem/)<br>
+[2104. SumOfSubarrayRanges](/SumOfSubarrayRanges/)<br>
 
 
 
