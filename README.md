@@ -29,6 +29,7 @@ Solved Leetcode problems
 [290. WordPattern](/WordPattern/)<br>
 [412. FizzBuzz](/FizzBuzz/)<br>
 [937. ReorderDataInLogFiles](/ReorderDataInLogFiles/)<br>
+[1268. SearchSuggestionsSystem](/SearchSuggestionsSystem/)<br>
 
 
 
